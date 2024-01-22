@@ -73,7 +73,7 @@ export default function Contact() {
                 <i class="fa-brands fa-discord text-lg"></i> Discord
               </Link>
               <Link
-                to="https://www.tiktok.com/simplywilber"
+                to="https://www.tiktok.com/@simplywilber?t=8jFKDVFTc0g&_r=1"
                 target="_blank"
                 className="flex gap-2 items-center transition hover:scale-110"
               >

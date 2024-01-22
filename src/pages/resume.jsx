@@ -23,19 +23,19 @@ export default function Resume() {
           >
             Digital Résumé
           </motion.h1>
-          <motion.a
+          <motion.div
             className="flex self-center transition gap-1 cursor-pointer hover:scale-110 "
             initial={{ opacity: 0, delay: 1 }}
             animate={{ opacity: 1 }}
             transition={{
               delay: 1.8,
             }}
-            href="/public/CV_RESUME Wilber Amaya.pdf"
-            download
           >
-            <FileDownloadIcon className="my-1" fontSize="small" />
-            PDF CV/Resume
-          </motion.a>
+            <a href="/Wilber_Amaya_CV.pdf" download>
+              <FileDownloadIcon className="my-1" fontSize="small" />
+              PDF CV/Resume
+            </a>
+          </motion.div>
         </div>
 
         <motion.div

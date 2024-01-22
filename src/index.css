@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+::selection {
+  background: gray;
+}
+
+h2,
+h4 {
+  font-family: "Rozha One", serif;
+}
+
+.underlineLink {
+  position: relative;
+  display: inline-block;
+  font-size: 16px;
+  line-height: 24px;
+  height: 24px;
+  text-decoration: none;
+}
+
+.underlineLink::after {
+  content: "";
+  position: absolute;
+  display: block;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  border-bottom: 1.5px solid #7e8084;
+}
+
+.underlineLink,
+.underlineLink::after {
+  transition: all 0.3s linear;
+}
+
+.underlineLink:hover::after {
+  left: 0;
+  width: 100%;
+}
+
+.cloud1 {
+  animation-name: Float1;
+  animation-duration: 150s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}
+@keyframes Float1 {
+  from {
+    transform: translateX(5%) translateZ(0);
+  }
+  to {
+    transform: translateX(100%) translateZ(0);
+  }
+}
+.cloud2 {
+  animation-name: Float2;
+  animation-duration: 150s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}
+@keyframes Float2 {
+  from {
+    transform: translateX(0%) translateZ(0);
+  }
+  to {
+    transform: translateX(-75%) translateZ(0);
+  }
+}
+.large_circle {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border-width: 1px;
+  border-color: rgba(104, 104, 104, 0.531);
+  background-color: rgba(255, 255, 255, 0.075);
+  position: fixed;
+  pointer-events: none;
+  z-index: 3;
+}
+.small_circle {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border-width: 1.5px;
+  border-color: rgba(107, 107, 107, 0.531);
+  background-color: rgba(249, 249, 249, 0.429);
+  position: fixed;
+  pointer-events: none;
+  z-index: 3;
+}

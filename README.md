@@ -2,25 +2,24 @@
 
 <a name="readme-top"></a>
 
-> Welcome to my Portfolio!
-
-<a href="https://www.simplywilber.com">View Live</a>
-
-## About The Project
-
 <p style="text-align: center;">
-<Image src="" width="400" height="250" alt="Portfolio Preview"/>
+<Image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2s1emsyY2I0a3V6dGdwa2h2MGZ5MmdhcDFwZmowcDNybXVoNHo0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nKqJTSbYeQxvemPI51/giphy.gif" width="400" height="250" alt="Portfolio Preview"/>
+
+## Visit Live
+
+<a href="https://www.simplywilber.com"><h3>simplywilber.com</h3></a>
+
+ ## About the project
+
 </p>
-Welcome to my portfolio, a digital showcase of my most recent projects and skills. I am thrilled to share with you the culmination of my journey as a junior developer. This portfolio has been a labor of love, evolving over time as I acquire new knowledge and embark on new projects. Each change reflects my growth and dedication to being a well-rounded developer. To enhance my online presence, I have proudly purchased my own custom domain, simplwilber.com. This personal touch allows my portfolio to stand out and easily accessible to potential employers and collaborators. I hope you find this portfolio informative and engaging. It encapsulates my passion for development and my commitment to delivering high-quality work. Thank you for taking the time to explore my digital space.
+Welcome to my portfolio, a digital showcase of my most recent projects and skills. I am excited to share with you the culmination of my journey as a junior developer. This portfolio has been a labor of love, evolving over time as I acquire new knowledge and embark on new projects. Each change reflects my growth and dedication to being a well-rounded developer. To enhance my online presence, I have purchased my own custom domain, simplwilber.com. This personal touch allows my portfolio to be easily accessible to potential collaborators. I hope you find this portfolio informative and engaging and thank you for taking the time to explore my digital space : &rpar;
 
 ## Inspiration 
 
 
-This portfolio design is more than just a layout; it's a canvas that reflects my individual style and how I want to present myself as a developer. The color palette, drawn from my personal favorites – a gentle cream and a deep gray – is a deliberate choice to craft a visually enticing and immersive journey for visitors. The interplay of these light and dark hues serves not only an aesthetic purpose but strategically directs attention to key elements on each page.
+The design of my portfolio reflects my individual style and how I want to present myself as a developer. The color palette, drawn from my personal favorites colors – a gentle cream and a deep gray – is a deliberate choice to craft a visually enticing journey for visitors. The interplay of these light and dark hues serves not only an aesthetic purpose but strategically directs attention to key elements on each page. The overall minimalist appearance is a reflection of my appreciation for simplicity, seamlessly blending the worlds of programming and my personal taste. 
 
-Adding a personal touch, I introduced custom transitions and a distinctive cursor, injecting a sense of uniqueness into the portfolio. These elements contribute to an interactive and engaging experience, making each visit a memorable exploration. Careful consideration went into selecting the typography, ensuring that the text is not only easy to read but also visually captivating. By blending serif and sans-serif fonts, I aimed to achieve a timeless yet contemporary aesthetic.
-
-Ultimately, this portfolio design isn't just a showcase of my technical skills; it's a reflection of my personality and preferences. I believe it creates a positive and lasting impression, offering visitors an enjoyable journey through my work. I sincerely hope you find pleasure in navigating through my portfolio.
+Ultimately, this portfolio design isn't just a showcase of my technical skills; it's a reflection of my personality and preferences and I hope you enjoy it : &#41;
 
 <a href="#readme-top">back to top</a>
 
@@ -38,7 +37,10 @@ Ultimately, this portfolio design isn't just a showcase of my technical skills; 
 <div>
 <ul>
     <li>
-        [ x ] Initial Commit
+        [ ] Initial Commit
+    </li>
+    <li>
+        [ x ] Update README.md, Resume file and tik-tok URL
         <Image src="https://media.giphy.com/media/yWI8ycaXuknOpxomyZ/giphy.gif" width="30px" height="30px" alt="confetti"/>
         <Image src="https://media.giphy.com/media/7Q7fYv7rIVQ7rvXpgB/giphy.gif" width="30px" height="30px" alt="Wilber Celebrating"/>
         <Image src="https://media.giphy.com/media/yWI8ycaXuknOpxomyZ/giphy.gif" width="30px" height="30px" alt="confetti"/>

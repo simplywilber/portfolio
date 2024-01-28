@@ -31,7 +31,7 @@ export default function Resume() {
               delay: 1.8,
             }}
           >
-            <a href="/Wilber_Amaya_CV.pdf" download>
+            <a href="/Wilber_Amaya_Resume.pdf" download>
               <FileDownloadIcon className="my-1" fontSize="small" />
               PDF CV/Resume
             </a>

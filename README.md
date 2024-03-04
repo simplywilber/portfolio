@@ -40,7 +40,10 @@ Ultimately, this portfolio design isn't just a showcase of my technical skills; 
         [ ] Initial Commit
     </li>
     <li>
-        [ x ] Update README.md, Resume file and tik-tok URL
+        [ ] Update README.md, Resume file and tik-tok URL
+    </li>
+    <li>
+        [x] Update Resume file
         <Image src="https://media.giphy.com/media/yWI8ycaXuknOpxomyZ/giphy.gif" width="30px" height="30px" alt="confetti"/>
         <Image src="https://media.giphy.com/media/7Q7fYv7rIVQ7rvXpgB/giphy.gif" width="30px" height="30px" alt="Wilber Celebrating"/>
         <Image src="https://media.giphy.com/media/yWI8ycaXuknOpxomyZ/giphy.gif" width="30px" height="30px" alt="confetti"/>

@@ -86,7 +86,7 @@ export default function Resume() {
             <h4 className="font-bold text-lg sm:text-xl">
               Programming Languages{" "}
             </h4>
-            <p>Javascript, HTML, CSS, SQL</p>
+            <p>HTML/CSS, Javascript, Python, SQL</p>
           </div>
           <div className="flex flex-col text-center items-center gap-1.5 pb-5 sm:text-start sm:flex-row">
             <h4 className="font-bold text-lg sm:text-xl">Javascript </h4>
@@ -98,7 +98,7 @@ export default function Resume() {
             </h4>
             <p>
               Firebase, PostgreSQL, Git, Github, Postman, Sanity, Stripe,
-              Tailwind CSS, Huggingface.js, Framer-Motion, Bootstrap, Vite,
+              Tailwind CSS, Bootstrap, Vite,
               Netlify
             </p>
           </div>
